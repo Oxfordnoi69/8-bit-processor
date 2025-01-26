@@ -1,2 +1,2 @@
 # 8-bit-processor
-My first github repository.
+My first git repository.
